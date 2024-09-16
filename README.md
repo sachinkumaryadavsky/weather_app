@@ -1,0 +1,1 @@
+Designed and developed a web application that provides real-time weather information for a given location. It allows you to view the current temperature, wind speed and humidity. You can search for weather data by city name.
